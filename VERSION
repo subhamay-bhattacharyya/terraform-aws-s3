@@ -1,0 +1,19 @@
+# Version 1.0.0
+
+Initial release of the Terraform AWS S3 module.
+Version: 1.0.0
+Author: Subhamay Bhattacharyya
+Created: 12-Nov-2024
+Updated: 12-Nov-2024 09:44
+Description: This module creates an S3 bucket with versioning, encryption, and storage using Terraform.
+
+
+## Features
+- Create an S3 bucket
+- Enable versioning
+- Configure bucket policies
+- Enable server-side encryption
+- Configure lifecycle rules
+- Apply bucket ACLs
+- Tag the S3 bucket
+
